@@ -1,0 +1,4 @@
+spring:
+  profiles: color
+
+words: red,orange,yellow,green,blue,indigo,violet
